@@ -1,2 +1,2 @@
 # hello_world
-https://guides.github.com/activities/hello-world/
+learning github from https://guides.github.com/activities/hello-world/
